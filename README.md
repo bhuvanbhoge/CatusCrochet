@@ -1,4 +1,4 @@
-# Project Title :Catus Crochet
+# Project Title : Catus Crochet
 
 **Catus Crochet** is an online store for handmade yarn products designed for art lovers. Browse and buy unique crochet items or request custom creations tailored to your ideas.
 
