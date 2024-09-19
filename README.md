@@ -56,8 +56,12 @@ In a market flooded with mass-produced goods, finding personalized and high-qual
 ## Azure Services
 
 - **1. Azure Static Web Apps**: The front-end of Catus Crochet is hosted on Azure Static Web Apps, ensuring fast load times, global availability, and automatic scaling to accommodate traffic variations.
+  
   ![image](https://github.com/user-attachments/assets/1ca7752b-ed46-46b4-ae76-b69be56ad03e)
+
+  
 - **2. Azure Storage Account (Container)**: The product images and media files are stored in a container within an Azure Storage Account. This setup provides scalable and secure storage for all media assets used on the platform, ensuring fast and reliable access.
+  
   ![image](https://github.com/user-attachments/assets/c2f23dcd-3219-443a-a564-346d11552483)
 
 
