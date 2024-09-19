@@ -53,6 +53,14 @@ In a market flooded with mass-produced goods, finding personalized and high-qual
 - **Multilingual Support**: To reach a global audience.
 - **Discount Codes**: Promotions and discount functionality.
 
+## Azure Services
+
+- **1. Azure Static Web Apps**: The front-end of Catus Crochet is hosted on Azure Static Web Apps, ensuring fast load times, global availability, and automatic scaling to accommodate traffic variations.
+  ![image](https://github.com/user-attachments/assets/1ca7752b-ed46-46b4-ae76-b69be56ad03e)
+- **2. Azure Storage Account (Container)**: The product images and media files are stored in a container within an Azure Storage Account. This setup provides scalable and secure storage for all media assets used on the platform, ensuring fast and reliable access.
+  ![image](https://github.com/user-attachments/assets/c2f23dcd-3219-443a-a564-346d11552483)
+
+
 ## Conclusion
 
 **Catus Crochet** offers a unique shopping experience for those seeking personalized, handmade crochet products. With a focus on customization and quality, and supported by robust technology, the platform stands out in the handmade crafts market.
